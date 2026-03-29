@@ -27,3 +27,7 @@ If you use NNTikZ in your research or project, cite simply as:
     url = {https://github.com/fraserlove/nntikz}
 }
 ```
+
+
+other diagrams:
+https://magazine.sebastianraschka.com/p/visual-attention-variants
